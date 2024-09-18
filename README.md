@@ -7,7 +7,7 @@ Reduced Customer Engagement: The number of customer interactions and engagement 
 Decreased Conversion Rates: Fewer site visitors are converting into paying customers.
 High Marketing Expenses: Significant investments in marketing campaigns are not yielding expected returns.
 Need for Customer Feedback Analysis: Understanding customer opinions about products and services is crucial for improving engagement and conversions.
-![image](https://github.com/user-attachments/assets/ca702e96-7162-4615-a5b3-e46f08d62d72)
+
 
 ### Goals
 #### Increase Conversion Rates:
